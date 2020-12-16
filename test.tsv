@@ -1,0 +1,28 @@
+tconst	titleType	primaryTitle	originalTitle	isAdult	startYear	endYear	runtimeMinutes	genres
+tt0000001	short	Carmencita	Carmencita	0	1894	\N	1	Documentary,Short
+tt0000002	short	Le clown et ses chiens	Le clown et ses chiens	0	1892	\N	5	Animation,Short
+tt0000003	short	Pauvre Pierrot	Pauvre Pierrot	0	1892	\N	4	Animation,Comedy,Romance
+tt0000004	short	Un bon bock	Un bon bock	0	1892	\N	\N	Animation,Short
+tt0276860	movie	Chop Suey	Chop Suey	0	2001	\N	98	Biography,Documentary
+tt0276861	movie	Chor Chor	Chor Chor	0	1974	\N	\N	Crime,Drama
+tt0276862	movie	Chucho el Roto	Chucho el Roto	0	1960	\N	87	Adventure,Drama,Romance
+tt0276863	movie	Ten Days Without Love	El cielo abierto	0	2001	\N	110	Comedy,Romance
+tt0276864	movie	Los cinco halcones	Los cinco halcones	0	1962	\N	87	Action,Adventure,Western
+tt0276865	movie	A Circle in the Fire	A Circle in the Fire	0	1974	\N	\N	\N
+tt0000011	short	Akrobatisches Potpourri	Akrobatisches Potpourri	0	1895	\N	1	Documentary,Short
+tt0000012	short	The Arrival of a Train	L'arrivée d'un train à La Ciotat	0	1896	\N	1	Action,Documentary,Short
+tt3433134	movie	Black Taj	Black Taj	0	2016	\N	\N	Adventure
+tt3433136	video	The Jewish Hunger Games	The Jewish Hunger Games	0	2013	\N	\N	Comedy
+tt3433142	tvEpisode	Love Is a Gamble	Love Is a Gamble	0	2014	\N	44	Crime,Drama,Mystery
+tt3433144	movie	Kuroi ni Ame Utarete	Kuroi ni Ame Utarete	0	1984	\N	94	Drama
+tt3433146	short	Devil's Creek	Devil's Creek	0	2014	\N	7	Drama,Horror,Short
+tt3433150	tvEpisode	Soup, Salad and Seafood	Soup, Salad and Seafood	0	2013	\N	22	Reality-TV
+tt3433152	movie	La casa en la colina	La casa en la colina	0	2014	\N	\N	Comedy
+tt3433154	short	Sinners Repent!	Sinners Repent!	0	2013	\N	15	Short
+tt3433156	tvEpisode	DNA Will Prove My Son Is Not Your Baby's Dad!	DNA Will Prove My Son Is Not Your Baby's Dad!	0	2013	\N	\N	Talk-Show
+tt3433158	movie	Archie	Archie	0	2015	\N	100	Drama,Family,Thriller
+tt3433160	movie	Magicians: Life in the Impossible	Magicians: Life in the Impossible	0	2016	\N	87	Documentary
+tt3433162	movie	Holidays	Holidays	0	2010	\N	\N	Drama
+tt3433164	tvEpisode	The Escape Artist	The Escape Artist	0	2013	\N	43	Crime
+tt3433166	tvEpisode	Episode #18.68	Episode #18.68	0	1987	\N	\N	Adventure,Animation,Comedy
+tt3433170	movie	The King of the Streets	The King of the Streets	0	2012	\N	88	Action
